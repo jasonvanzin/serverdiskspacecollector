@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'gsdsgui.ui'
-#
-# Created: Wed Aug  7 23:06:12 2013
-#      by: PyQt4 UI code generator 4.10.2
-#
-# WARNING! All changes made in this file will be lost!
-
 from PySide import QtCore, QtGui
 
 try:
